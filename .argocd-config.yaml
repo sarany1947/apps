@@ -1,0 +1,3 @@
+appName: hello-world
+appPath: helmimage # Where your chart lives
+destNamespace: hello-world
